@@ -8,7 +8,7 @@
 </head>
 <body>
     <div class="container">
-        <h1 class="text-center"><i class="fa fa-plus">Add a Products</i></h1>
+        <h1 class="text-center"><i class="fa fa-plus">Add a Product</i></h1>
         <div class="col-lg-12">
             <div class="well clearfix">
                 <form runat="server" class="form-horizontal">
