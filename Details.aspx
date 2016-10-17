@@ -54,7 +54,7 @@
                             <div class="col-lg-8">
                                 <asp:TextBox ID="txtPrice" runat="server"
                                     class="form-control" type="number"
-                                    min="0.01" max="9,999,999,999,999,999.99" step="0.01" required />
+                                     required />
                             </div>
                         </div>
                         <div class="form-group">
